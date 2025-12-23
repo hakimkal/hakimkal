@@ -1,19 +1,26 @@
 
-Hello 👋  
+Abdulhakim Haliru  
+Senior Full-Stack Software Engineer
 
-My Name is Abdulhakim Haliru. I am a Senior Fullstack Software Engineer. I use my knowledge of computer science and problem solving to build software solutions that can solve problems.  
-I have spent over 9 years building software solutions for various clients, most of these times have been spent working with Startups and UN Agencies in Nigeria ad Africa.
+I am a Senior Full-Stack Software Engineer. I use my knowledge of computer science and problem solving to build software solutions that solve real world problems.
 
-Current Languages: Rust,Java,Golang, Typescript.
+I have  over 9 years of professional  software experience building and delivering solutions for a various clients.  
 
-Past Languages: C, Ruby, Python,PHP, Elixir.
+A significant portion of my career have been spent working with startups and United Nations agencies across Nigeria and Africa.
+My work has spanned payments, infrastructure, data processing, developer platforms, and distributed systems.
+
+Primary Languages: Rust,Java,Golang, Typescript.
+
+Previously Used Languages: C, Ruby, Python,PHP, Elixir.
 
 Technologies I've worked with: NextJS, SvelteKit, NestJs, Java, Rust, Golang, Ollama, Web3js, Polars, Pandas, Telegram APIs, Scylladb, Redis, Solana,Azure, GCP, AWS.
 
-🔭 I’m currently leading the team building and maintaining [Paydestal](https://paydestal.com) and also maintain a small side freelance shop at upwork.com  
+🔭 I currently lead the engineering team responsible for building and maintaining [Paydestal](https://paydestal.com) a payments platform, and I also maintain a small  freelance consultancy via [Upwork](https://upwork.com)  
 
-👯 I’m open  to collaborate or work with global focused startups doing impactful work in great cultural diverse environment.  
+👯 I am open  to collaboration or fulltime opportunities with global focused startups doing impactful work within cultural diverse teams.  
 
-💬 Ask me about Software Engineering, Machine Learning and JavaScript.  
+💬 Ask me about Software Engineering, Machine Learning, Backend Architecture and Distributed Systems.  
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/abdulhakimhaliru?originalSubdomain=ng), [X.com](https://twitter.com/hakimhotoro)
+📫 Connect with me:  
+LinkedIn: [https://www.linkedin.com/in/abdulhakimhaliru?originalSubdomain=ng](https://www.linkedin.com/in/abdulhakimhaliru?originalSubdomain=ng)  
+X: [@hakimhotoro](https://twitter.com/hakimhotoro)
