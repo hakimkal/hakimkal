@@ -1,6 +1,8 @@
 
-Hola 👋
-My Name is Abdulhakim Haliru. I am a Senior Fullstack Software Engineer. I use my knowledge of computer science and problem solving to build software solutions that can solve problems. I have spent over 9 years building software solutions for various clients, most of these times have been spent working with Startups and UN Agencies in Africa.
+Hello 👋  
+
+My Name is Abdulhakim Haliru. I am a Senior Fullstack Software Engineer. I use my knowledge of computer science and problem solving to build software solutions that can solve problems.  
+I have spent over 9 years building software solutions for various clients, most of these times have been spent working with Startups and UN Agencies in Nigeria ad Africa.
 
 Current Languages: Rust,Java,Golang, Typescript.
 
