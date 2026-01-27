@@ -14,7 +14,8 @@ Previously Used Languages: C, Ruby, Python,PHP, Elixir.
 
 Technologies I've worked with: NextJS, SvelteKit, NestJs, Java, Rust, Golang, Ollama, Web3js, Polars, Pandas, Telegram APIs, Scylladb, Redis, Solana,Azure, GCP, AWS.
 
-🔭 I currently lead the engineering team responsible for building and maintaining [Paydestal](https://paydestal.com) a payments platform, and I also maintain a small freelance consultancy via [Upwork](https://upwork.com)
+<!--
+🔭 I currently lead the engineering team responsible for building and maintaining [Paydestal](https://paydestal.com) a payments platform, and I also maintain a small freelance consultancy via [Upwork](https://upwork.com) -->
 
 👯 I am open to collaboration or fulltime opportunities with global focused startups doing impactful work within cultural diverse teams.
 
