@@ -1,28 +1,15 @@
-Abdulhakim Haliru  
-Senior Full-Stack Software Engineer
+# Abdulhakim Haliru
 
-I am a Senior Full-Stack Software Engineer. I use my knowledge of computer science and problem solving to build software solutions that solve real world problems.
+Forward Deployment Engineer. I help founders validate and iterate in short windows.
 
-I have over 9 years of professional software experience building and delivering solutions for a various clients.
+ScreenCrafter · QuietShare · Co-Founder, Vant Inc.
 
-A significant portion of my career have been spent working with startups and United Nations agencies across Nigeria and Africa.
-My work has spanned payments, infrastructure, data processing, developer platforms, and distributed systems.
+I build products that have to run, usually on a team, on a scoped piece of the system.
 
-Primary Languages: Rust,Java,Golang, Typescript.
+That has included cloud vendor and procurement platforms for UN agencies, agrotech, edtech, and payments. This was before the current AI wave. The last few years I still do that work, now with AI in the stack when it earns it, including short-window help when a founder needs to validate or iterate.
 
-Previously Used Languages: C, Ruby, Python,PHP, Elixir.
+I go into an existing team or a new R&D team and stay until we have shipped the agents, the workflows they run, and the servers they live on.
 
-Technologies I've worked with: NextJS, SvelteKit, NestJs, Java, Rust, Golang, Ollama, Web3js, Polars, Pandas, Telegram APIs, Scylladb, Redis, Solana,Azure, GCP, AWS.
+I take that work when the product has to move.
 
-<!--
-🔭 I currently lead the engineering team responsible for building and maintaining [Paydestal](https://paydestal.com) a payments platform, and I also maintain a small freelance consultancy via [Upwork](https://upwork.com) -->
-
-👯 I am open to collaboration or fulltime opportunities with global focused startups doing impactful work within cultural diverse teams.
-
-💬 Ask me about Software Engineering, Machine Learning, Backend Architecture and Distributed Systems.
-
-📫 Connect with me:
-
-<!-- LinkedIn: [https://www.linkedin.com/in/abdulhakimhaliru?originalSubdomain=ng](https://www.linkedin.com/in/abdulhakimhaliru?originalSubdomain=ng)   -->
-
-X: [@hakimhotoro](https://twitter.com/hakimhotoro)
+[Medium](https://medium.com/@hakeemhal) · [LinkedIn](https://www.linkedin.com/in/abdulhakimhaliru) · [X](https://x.com/hakimhotoro)
